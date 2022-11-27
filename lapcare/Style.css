@@ -1,0 +1,257 @@
+﻿body
+{
+
+background:black;
+}
+.wave
+{
+  
+  color:white;
+}
+.navbar
+{
+	padding-left:580px;
+	display:flex;
+	justify-content:space-between;
+	height:100px;
+	
+	
+}
+.navbar li
+{
+	color:white;
+  padding:20px;
+  display:inline-block;
+
+}
+.navbar li:hover
+{
+	color:orange;
+}
+.search
+{
+  background:white;
+  border-style:solid;
+  border-radius:30px;
+  border-color:#3A3B3C;
+  color:darkgrey;
+  padding-left:8%;
+  padding-top:8px;
+  padding-bottom:8px;
+  font-family:"lucida console ","courier New", monospace;
+  font-weight:bold;
+  font-size:medium;
+  margin-left:150px;
+  margin-top:160px;
+
+}
+.button1
+{
+	background:black;
+	border-style:solid;
+  border-radius:10px;
+  border-color:#3A3B3C;
+  color:#E50914;
+  padding-left:2%;
+  padding-top:8px;
+  padding-bottom:8px;
+  padding-right:2%;
+  font-weight:bold;
+  font-size:medium;
+  margin-left:10px;
+  margin-top:160px;
+}
+.brands
+{
+   color:white;
+   font-size:36px;
+}
+.button1:hover
+{
+    border-style:solid;
+	 border-color:#E50914;
+}
+
+#lenovo
+{   color:white;
+	margin-left:100px;
+	padding-bottom:10px;
+}
+#lenovo:hover
+{
+	color:orange;
+}
+
+.image
+{
+	 border-radius:5px;
+     box-shadow:0 0 10px #9ecaed;
+     margin-left:200px;
+}
+.image:hover
+{
+	 border-radius:5px;
+     width:310px;
+     height:210px;
+ 
+}
+.button2
+{
+	margin-bottom:100px;
+    margin-left:300px;
+	background:black;
+	border-style:solid;
+  border-radius:10px;
+  padding-top:5px;
+  border-color:#3A3B3C;
+  color:#E50914;
+   padding-left:2%;
+   padding-right:2%;
+  font-weight:bold;
+  font-size:medium;
+}
+.button2:hover
+{
+    border-style:solid;
+	 border-color:lightblue;
+	   box-shadow:0 0 10px #9ecaed;
+}
+.main{
+        margin-left:20px;
+        margin-top:-160px;
+        margin-bottom:-180px;
+}
+.main,
+    h3{
+        color: #fff;
+        font-size: 80px;
+        text-transform: uppercase;
+        font-weight: 700;
+        background: linear-gradient(to right, #33B7FF 10%, #BD23FF 50%, #FCFF33 60%);
+        background-size: 200% auto;
+        -webkit-background-clip:text;
+        -webkit-text-fill-color:transparent;
+        animation: textclip 1.5s linear infinite;
+        display: inline-block;
+    }
+    @keyframes textclip {
+        to{
+            background-position: 200% center;
+        }
+    }
+    .details
+    {
+        margin-left:600px;
+        margin-top:-360px;
+        margin-bottom:100px;
+      color:green;
+     border-style:solid;
+      border-radius:10px;
+      padding:40px;
+      width:300px;
+       box-shadow:0 0 10px green;
+   
+    }
+     .details2
+    {
+        margin-left:600px;
+       margin-top:-210px;
+     margin-bottom:0px;
+      color:green;
+     border-style:solid;
+      border-radius:10px;
+      padding:40px;
+      width:300px;
+       box-shadow:0 0 10px green;
+   
+    }
+      .details3
+    {
+        margin-left:600px;
+       margin-top:-230px;
+     margin-bottom:40px;
+      color:green;
+     border-style:solid;
+      border-radius:10px;
+      padding:40px;
+      width:300px;
+       box-shadow:0 0 10px green;
+   
+    }
+      .details4
+    {
+        margin-left:600px;
+       margin-top:-240px;
+     margin-bottom:60px;
+      color:green;
+     border-style:solid;
+      border-radius:10px;
+      padding:40px;
+      width:300px;
+       box-shadow:0 0 10px green;
+   
+    }
+      .details5
+    {
+        margin-left:600px;
+       margin-top:-230px;
+     margin-bottom:80px;
+      color:green;
+     border-style:solid;
+      border-radius:10px;
+      padding:40px;
+      width:300px;
+       box-shadow:0 0 10px green;
+   
+    }
+  ul {
+    margin: 0px;
+    padding: 0px;
+}
+.footer-section {
+  background:black;
+  padding:50px;
+  
+  margin-left:150px;
+}
+
+.single-cta i {
+  color: #ff5e14;
+  font-size: 30px;
+  float: left;
+  margin-top: 8px;
+}
+.cta-text {
+  padding-left: 15px;
+  display: inline-block;
+}
+.cta-text h4 {
+  color: #fff;
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 2px;
+}
+.cta-text span {
+  color: #757575;
+  font-size: 15px;
+}
+.foothead 
+{
+    display:flex;
+  
+}
+.list{
+    color:white;
+   margin-bottom:-120px;
+  margin-left:350px;
+}
+.list2
+{
+   color:white;
+   margin-bottom:-120px;
+  margin-left:580px;
+}
+.copyright
+{
+  color:white;
+}

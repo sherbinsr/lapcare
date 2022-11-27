@@ -1,0 +1,30 @@
+﻿@media(max-width:34em)
+{
+
+  .button1
+{ 
+	margin-top:20px;
+	margin-left:140px;
+	margin-up:20px;
+	overflow:hidden;
+}
+.search
+{
+	margin-left:60px;
+
+	
+}
+.brands
+{
+
+  
+  justify -content:space-between;
+  padding:0 10px;
+  align-items:center;
+}
+.navbar
+{
+   margin-left:200px;
+}  
+
+}
